@@ -1,0 +1,15 @@
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\ScieloEzequiel.exe.config
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\ScieloEzequiel.exe
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\ScieloEzequiel.pdb
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\WebDriver.dll
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\WebDriver.Support.dll
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\WebDriver.xml
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\bin\Debug\WebDriver.Support.xml
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.csprojAssemblyReference.cache
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.processamento.resources
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.Properties.Resources.resources
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.csproj.GenerateResource.cache
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.csproj.CoreCompileInputs.cache
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.csproj.CopyComplete
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.exe
+C:\ezequiel\IKONAS\AutomacaoSciELO\ScieloEzequiel\ScieloEzequiel\ScieloEzequiel\obj\Debug\ScieloEzequiel.pdb
